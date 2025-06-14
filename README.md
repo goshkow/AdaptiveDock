@@ -1,6 +1,7 @@
 # AdaptiveDock
 
 A macOS utility for making your Dock adaptive and intelligent.
+[Watch the AdaptiveDock demo video on YouTube](https://youtu.be/OK3HIASEuEk)
 
 ## Features
 
