@@ -7,7 +7,6 @@ A macOS utility for making your Dock adaptive and intelligent.
 - Auto-hide Dock when space is limited  
 - Show Dock only when there is enough free space  
 - Customizable activation size  
-- Customizable Dock size via slider  
 - Background process without Dock icon  
 - Autostart on login option  
 
