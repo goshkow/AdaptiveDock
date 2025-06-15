@@ -23,7 +23,7 @@ A macOS utility for making your Dock adaptive and intelligent.
 
 ### ⚠️ Important Notice for macOS Security
 
-If macOS shows a warning like "The application is damaged and can't be opened" or "Cannot verify developer," you can remove the quarantine attribute using the Terminal:
+If macOS shows a warning like "The application is damaged and can't be opened" or "Cannot verify developer" you can remove the quarantine attribute using the Terminal:
 
 ```bash
 sudo xattr -r -d com.apple.quarantine /Applications/AdaptiveDock.app
