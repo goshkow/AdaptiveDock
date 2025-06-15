@@ -11,13 +11,23 @@ A macOS utility for making your Dock adaptive and intelligent.
 - Background process without Dock icon  
 - Autostart on login option  
 
-## Installation
+## 🧩 Installation
 
-Download the latest release `.dmg` file from the [Releases](https://github.com/goshkow/AdaptiveDock/releases) section.  
-Open the `.dmg` file and drag the `AdaptiveDock.app` to your Applications folder.  
-Launch the app from your Applications folder.
+1. **Download** the latest release `.dmg` file from the [Releases](https://github.com/goshkow/AdaptiveDock/releases) section.  
+2. **Open** the `.dmg` file and **drag** `AdaptiveDock.app` to your **Applications** folder.  
+3. **Launch** the app from your Applications folder.
 
 > **Note:** The source code is not publicly available. Only the compiled releases are provided.
+
+---
+
+### ⚠️ Important Notice for macOS Security
+
+If macOS shows a warning like "The application is damaged and can't be opened" or "Cannot verify developer," you can remove the quarantine attribute using the Terminal:
+
+```bash
+sudo xattr -r -d com.apple.quarantine /Applications/AdaptiveDock.app
+```
 
 ## Supported macOS Versions
 
